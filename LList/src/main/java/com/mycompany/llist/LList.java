@@ -1,10 +1,7 @@
 package com.mycompany.llist;
 import java.util.LinkedList;
 import java.util.List;
-/**
- *
- * @author swapon
- */
+
 public class LList {
 
     public static void main(String[] args) {
