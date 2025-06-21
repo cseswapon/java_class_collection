@@ -4,10 +4,6 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 
-/**
- *
- * @author swapon
- */
 public class Tset {
 
     public static void main(String[] args) {
